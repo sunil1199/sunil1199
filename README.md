@@ -1,3 +1,4 @@
+**Hi there 👋**
 - 🔭 I’m currently working on React,React-Redux.
 - 🌱 I’m currently learning NextJS,Tailwind CSS,TypeScript
 - 💬 Ask me about React,React-Redux,NextJS,Tailwind CSS
